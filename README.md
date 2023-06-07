@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 #!/bin/bash
 SHELL BASICS REPO
+=======
+LEARNING SHELL BASICS
+>>>>>>> 8e3c9a4ea97c2196a91d7e911d66ce1ce35d7571
