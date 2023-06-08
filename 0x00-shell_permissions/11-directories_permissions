@@ -1,2 +1,2 @@
 #1/bin/bash
-chmor -R ugo+x .
+chmod -R ugo+x .
